@@ -1,6 +1,0 @@
-framework module Pods_Dijkstra_iOSTests {
-  umbrella header "Pods-Dijkstra-iOSTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
